@@ -1,11 +1,7 @@
 package android_serialport_api;
 
 
-public final class ArgEnums {
-
-    private ArgEnums() {
-        throw new RuntimeException("Non instantiation");
-    }
+public interface ArgEnums {
 
     enum DataBit {
         DATA_BIT_5(-1),
