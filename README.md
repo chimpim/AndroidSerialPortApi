@@ -19,6 +19,6 @@ Step 2. Add the dependency
 
 ``` gradle
 dependencies {
-	compile 'com.github.chimpim:AndroidSerialportAPI:v1.1'
+	compile 'com.github.chimpim:AndroidSerialportAPI:v1.2'
 }
 ```
