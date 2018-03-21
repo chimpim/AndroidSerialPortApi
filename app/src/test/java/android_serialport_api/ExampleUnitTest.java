@@ -1,4 +1,4 @@
-package android_serialport_api.android_serialport_api;
+package android_serialport_api;
 
 import org.junit.Test;
 
